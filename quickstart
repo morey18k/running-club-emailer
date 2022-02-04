@@ -1,4 +1,4 @@
-#!/home/bfichera/data/projects/running-club/venv/bin/python
+#!/home/bfichera/data/projects/running-club-emailer/venv/bin/python
 
 from __future__ import print_function
 import smtplib, ssl
