@@ -129,14 +129,14 @@ def main():
                 text = f"""\
                 Hello,
 
-                We will be running tomorrow at {time} tomorrow, meeting in front of the Z-center on the Kresge side. Tomorrow's route will be going to {article}!
+                We will be running at {time} tomorrow, meeting in front of the Z-center on the Kresge side. Tomorrow's route will be going to {article}!
 
                 There are """+text_string
                 html = f"""\
                 <html>
                   <body>
                     <p>Hello,<br><br>
-                       We will be running tomorrow at {time} tomorrow, meeting in front of the Z-center on the Kresge side. Tomorrow's route will be going to {article}!<br><br>
+                       We will be running at {time} tomorrow, meeting in front of the Z-center on the Kresge side. Tomorrow's route will be going to {article}!<br><br>
                        There are """+html_string
 
             if hosting == 'Tracksmith':
