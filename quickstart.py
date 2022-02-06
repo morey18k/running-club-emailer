@@ -30,7 +30,7 @@ def main():
     port = 465  # For SSL
     smtp_server = "smtp.gmail.com"
     sender_email = "mitclubrunning@gmail.com"  # Enter your address
-    receiver_email = "kmorey@mit.edu"  # Enter receiver address
+    receiver_email = "mit-running-club@mit.edu"  # Enter receiver address
     password = "charlesloops"
     
     """Shows basic usage of the Sheets API.
